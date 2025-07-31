@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Política de Privacidade - Meu Meme Generator</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            background: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1, h2 {
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+            border-bottom: 2px solid #eee;
+            padding-bottom: 10px;
+        }
+        h2 {
+            border-bottom: 1px solid #eee;
+            margin-top: 25px;
+            padding-bottom: 5px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            list-style-type: disc;
+            margin-left: 20px;
+            margin-bottom: 15px;
+        }
+        strong {
+            font-weight: bold;
+        }
+        a {
+            color: #007BFF;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1>Política de Privacidade para Meu Meme Generator</h1>
+    <p>Última atualização: <strong>30 de julho de 2025</strong></p>
+
+    <p>
+        Esta Política de Privacidade descreve como o aplicativo “Meu Meme Generator” (“o Aplicativo”),
+        desenvolvido pela FlavioCreative, coleta, usa e protege as informações dos seus usuários. Ao usar o Aplicativo,
+        você concorda com a coleta e o uso de informações de acordo com esta política.
+    </p>
+
+    <h2>1. Informações Coletadas</h2>
+    <p>
+        O Aplicativo “Meu Meme Generator” é projetado para permitir que os usuários criem e editem memes diretamente
+        em seus dispositivos. Para operar, o Aplicativo pode acessar as seguintes informações ou recursos do seu dispositivo:
+    </p>
+
+    <h3>Fotos/Mídia/Arquivos e Armazenamento:</h3>
+    <p>
+        O Aplicativo requer acesso ao armazenamento do seu dispositivo para:
+    </p>
+    <ul>
+        <li>Permitir que você selecione imagens da sua galeria para usar como base para seus memes.</li>
+        <li>Salvar os memes criados na sua galeria ou em outro local de armazenamento no seu dispositivo.</li>
+        <li>Acessar os templates de memes que podem estar armazenados localmente no Aplicativo.</li>
+    </ul>
+    <p>
+        Este acesso é estritamente limitado às funcionalidades de criação e salvamento de memes e não é utilizado
+        para acessar outros arquivos pessoais sem sua permissão explícita.
+    </p>
+
+    <h3>Informações de Anúncios (AdMob):</h3>
+    <p>
+        O Aplicativo utiliza o Google AdMob para exibir anúncios. O AdMob pode coletar e usar dados, incluindo:
+    </p>
+    <ul>
+        <li><strong>Identificadores de Dispositivo:</strong> Como o ID de publicidade do Android, para fornecer anúncios relevantes e limitar a frequência de anúncios.</li>
+        <li><strong>Informações de Localização Aproximada (se ativada pelo usuário):</strong> Para segmentar anúncios com base na sua localização geral. Você pode controlar as permissões de localização do seu dispositivo.</li>
+        <li><strong>Dados de Interação com Anúncios:</strong> Informações sobre suas interações com os anúncios exibidos.</li>
+    </ul>
+    <p>
+        Para mais informações sobre as práticas de privacidade do Google AdMob, por favor, consulte a Política de Privacidade do Google:
+        <a href="https://policies.google.com/privacy" target="_blank">https://policies.google.com/privacy</a>
+    </p>
+
+    <p>
+        O Aplicativo “Meu Meme Generator” <strong>NÃO</strong> coleta, armazena ou transmite para a FlavioCreative quaisquer dados pessoais
+        identificáveis (como nome, endereço de e-mail, número de telefone, etc.) ou informações sobre seus memes criados.
+        Todo o processamento de imagens e criação de memes ocorre localmente no seu dispositivo.
+    </p>
+
+    <h2>2. Uso das Informações</h2>
+    <p>
+        As informações acessadas ou coletadas, conforme detalhado acima, são usadas exclusivamente para os seguintes propósitos:
+    </p>
+    <ul>
+        <li><strong>Operação do Aplicativo:</strong> Permitir que o Aplicativo funcione conforme o esperado, incluindo a seleção de imagens, criação de memes e salvamento.</li>
+        <li><strong>Exibição de Anúncios:</strong> O Google AdMob usa os dados coletados para exibir anúncios relevantes e personalizados, bem como para medir o desempenho da publicidade.</li>
+    </ul>
+
+    <h2>3. Compartilhamento de Informações</h2>
+    <p>
+        A FlavioCreative não compartilha nenhuma informação pessoal coletada através do Aplicativo “Meu Meme Generator”,
+        pois não coletamos informações pessoais identificáveis diretamente.
+    </p>
+    <p>
+        As informações coletadas pelo Google AdMob são compartilhadas com o Google e seus parceiros de publicidade,
+        conforme descrito na Política de Privacidade do Google.
+    </p>
+
+    <h2>4. Segurança dos Dados</h2>
+    <p>
+        Tomamos medidas razoáveis para proteger as informações que o Aplicativo acessa no seu dispositivo contra acesso
+        não autorizado, alteração, divulgação ou destruição. No entanto, é importante lembrar que nenhum método de
+        transmissão pela Internet ou método de armazenamento eletrônico é 100% seguro e não podemos garantir a
+        segurança absoluta.
+    </p>
+
+    <h2>5. Links para Outros Sites</h2>
+    <p>
+        O Aplicativo pode conter links para outros sites que não são operados por nós. Se você clicar em um link de terceiros,
+        você será direcionado para o site desse terceiro. Aconselhamos fortemente que você revise a Política de Privacidade
+        de cada site que visitar. Não temos controle e não assumimos nenhuma responsabilidade pelo conteúdo, políticas de
+        privacidade ou práticas de quaisquer sites ou serviços de terceiros.
+    </p>
+
+    <h2>6. Privacidade de Crianças</h2>
+    <p>
+        Nosso Aplicativo não se destina a crianças menores de 13 anos. Não coletamos intencionalmente informações pessoais
+        identificáveis de crianças menores de 13 anos. Se você é pai/mãe ou responsável e tem conhecimento de que seu filho
+        nos forneceu dados pessoais, entre em contato conosco. Se tomarmos conhecimento de que coletamos dados pessoais de
+        crianças menores de 13 anos sem verificação do consentimento dos pais, tomaremos medidas para remover essas
+        informações de nossos servidores.
+    </p>
+
+    <h2>7. Alterações a Esta Política de Privacidade</h2>
+    <p>
+        Podemos atualizar nossa Política de Privacidade de tempos em tempos. Iremos notificá-lo sobre quaisquer alterações,
+        publicando a nova Política de Privacidade nesta página. Aconselhamos que você revise esta Política de Privacidade
+        periodicamente para quaisquer alterações. As alterações a esta Política de Privacidade são efetivas quando são
+        publicadas nesta página.
+    </p>
+
+    <h2>8. Contato</h2>
+    <p>
+        Se você tiver alguma dúvida sobre esta Política de Privacidade, entre em contato conosco em:
+    </p>
+    <p>
+        <strong>FlavioCreative</strong><br>
+        <a href="mailto:flaviocoelhotoledo@gmail.com">flaviocoelhotoledo@gmail.com</a>
+    </p>
+
+</div>
+
+</body>
+</html>
