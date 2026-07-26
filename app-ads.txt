@@ -13,7 +13,7 @@ bidmachine.io, 29844, DIRECT
 
 #Replace the Publisher_ID below with your Admob Publisher ID
 google.com, pub-9280770912294352, DIRECT, f08c47fec0942fa0
-
+google.com, pub-9280770912294352, DIRECT, f08c47fec0942fa0
 
 #Meta-Audience
 
